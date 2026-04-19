@@ -14,7 +14,7 @@ public class weightConverter{
         if(choice==1){
             System.out.println("Enter weight in lbs");
             weight=sc.nextDouble();
-            newWeight=weight*0.45356;
+            newWeight=weight * 0.45356;
             System.out.println(newWeight);
         }
         else if(choice==2){
